@@ -1,0 +1,28 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.bexla.agi.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "BundleItemMixin",
+    "ContainerMixin",
+    "ItemStackMixin",
+    "MixinItemEntity",
+    "MixinSlot",
+    "ServerPlayerMixin",
+    "TrashHelperMixin"
+  ],
+  "client": [
+    "GuiGraphicsMixin",
+    "LocalPlayerMixin",
+    "MixinAbstractContainerScreen",
+    "MixinCreativeModeInventoryScreen",
+    "MixinGui"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

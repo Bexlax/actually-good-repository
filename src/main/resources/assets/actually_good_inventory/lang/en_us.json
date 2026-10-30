@@ -1,0 +1,12 @@
+{
+  "key.agi.favorite_item": "Mark item as favorite",
+  "key.agi.hide_buttons": "Hide AGI's inventory Buttons",
+  "gui.agi.loot_all": "Loot all",
+  "gui.agi.deposit_all": "Deposit all",
+  "gui.agi.restock": "Restock",
+  "gui.agi.sort_inventory": "Sort Items",
+  "gui.agi.similar_stack": "Similar Stack to Nearby Chests",
+  "gui.agi.quick_stack": "Quick Stack to Nearby Chests",
+  "gui.agi.loadout": "Loadout %s",
+  "item.agi.marked_favorite": "Marked as Favorite"
+}

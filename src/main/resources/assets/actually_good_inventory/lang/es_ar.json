@@ -1,0 +1,12 @@
+{
+  "key.agi.favorite_item": "Marcar objeto como favorito",
+  "key.agi.hide_buttons": "Ocultar botones de inventario de AGI",
+  "gui.agi.loot_all": "Saquear todo",
+  "gui.agi.deposit_all": "Depositar todo",
+  "gui.agi.restock": "Reponer objetos",
+  "gui.agi.sort_inventory": "Ordenar objetos",
+  "gui.agi.similar_stack": "Guardar objetos similares en los cofres cercanos",
+  "gui.agi.quick_stack": "Guardar todos los objetos en los cofres cercanos",
+  "gui.agi.loadout": "Equipamiento %s",
+  "item.agi.marked_favorite": "Marcado como favorito"
+}
